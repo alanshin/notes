@@ -1,1 +1,1 @@
-live site: [https://alanshin.github.io/notes/](https://alanshin.github.io/notes/)
+notes
